@@ -1,2 +1,2 @@
-# hbase-tips
-Some useful things about HBase
+# HBase-tips
+Some useful tips about HBase
